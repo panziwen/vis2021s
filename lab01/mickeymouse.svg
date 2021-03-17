@@ -43,8 +43,10 @@
   <text x="438" y="12" font-size="12" text-anchor="start" fill="red">448</text>
   <text x="492" y="12" font-size="12" text-anchor="start" fill="red">512</text>
 
-  <path d="M256 256 V270 V242 M256 256 H270 H242" stroke="black" fill="white"></path>
-  <text x="254" y="250" font-size="16" text-anchor="middle" fill="red">(256, 256)</text>
+<path d="M175 175 A180 200 0 0 1 335 175
+           A92 92 0 1 1 390 225
+           A158 158 0 1 1 120 225
+           A92 92 0 1 1 175 175
+          " stroke-width="5" stroke="#F00" fill="none"/>
 </svg>
-
     
