@@ -44,24 +44,18 @@
 
   <text x="254" y="250" font-size="16" text-anchor="middle" fill="red">(256, 256)</text>
 
-  
-  <path d="M128 395, Q10 300, 92 186" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M128 395, Q290 456, 425 375" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M421 375, Q460 328, 440 230" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M 92 196, Q50 156, 100 100" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M100 100, Q130 100,182 128 " stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M182 128, Q200 120,266 123 " stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M266 123, C280 150 300 0,348 130" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M348 110, Q450 60,438 160" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M438 160, Q490 160,440 230" stroke-width="10" stroke="#F00" fill="none" />
+  <path d="M448 255 A200 200, 000 0 0 ,440 230
+                    ,034 070, 035 0 0 ,436 154
+                    ,096 350, 030 0 0 ,347 117
+                    ,096 350, 000 0 0 ,270 120
+                    ,250 200, 000 0 0 ,180 128
+                    ,099 350, 143 0 0 ,085 195
+                    ,230 200, 000 0 0 ,060 288
+                    ,050 004, 000 0 0 ,016 292
+                    ,050 004, 000 0 1 ,060 288
+                    ,200 130, 000 0 0 ,300 420
+                    ,180 140, 006 0 0 ,448 256z"
+ stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
 
-
-  <path d="M8 296,Q56 286 100 296" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M38 346,Q56 326 98 331" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M48 400,Q56 386 118 361" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M418 285,Q456 276 498 275" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M418 325,Q456 316 488 325" stroke-width="10" stroke="#F00" fill="none" />
-  <path d="M400 355,Q456 356 468 385" stroke-width="10" stroke="#F00" fill="none" />
-  
 </svg>
     
