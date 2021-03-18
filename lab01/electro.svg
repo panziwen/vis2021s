@@ -48,33 +48,24 @@
 
 
     <path d="M192 128 c50 -70 50 -70 -5 -64 s-0 -40 20 -55" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
-
     <path d="M000 128 H384" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M000 128 V384" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M000 384 H384" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M384 128 V384" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
-
     <path d="M000 233 h110" stroke-width="5" stroke="red" fill="none" opacity="1"/>
     <path d="M384 233 h-110" stroke-width="5" stroke="red" fill="none" opacity="1"/>
-
     <path d="M168 325 q25 50, 48 0" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M145 384 A200 150, 0 0 0, 128 444" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M245 384 A200 150, 0 0 1, 260 444" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M165 488 h56" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
-
     <path d="M132 410 A19 46, 035 1 0, 120 470" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M256 410 A19 46, 145 1 1, 268 470" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
-
     <path d="M120 465 A21 32, 165 1 1, 120 471z" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M266 461 A21 32, 25 1 0, 266 462z" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
-
-    <path d="M280 424 A40 12, 0 0 1, 364 414
-                       6 3, 160 0 0, 448 384" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
-
+    <path d="M280 424 A40 12, 0 0 1, 364 414, 6 3, 160 0 0, 448 384" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M440 358 A15 20, 30 0 0, 470 374z" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M450 362 l10 -18 " stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M460 366 l10 -18 " stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
-
     <path d="M435 310 s-2 8, -10 16, 30 -10, 10 20" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
     <path d="M512 330 s-10 5, -18 5, 30 10, -10 20" stroke-width="5" stroke="#F00" fill="none" opacity="1"/>
 </svg>
