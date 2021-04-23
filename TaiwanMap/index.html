@@ -68,6 +68,7 @@
 
     <body>
         <h1 id="city-title">台灣</h1>
+        <h1 id="city-title">大學部</h1>
         <div id="map" class="container">
         </div>
 
@@ -98,6 +99,12 @@
             window.onload = function(){
                 getMap('COUNTY_MOI_1090820.json', 'city-info.json', function(data){   
                     document.getElementById('map').appendChild(data);
+                    // console.log(data);
+                    // alert(data.);
+                    // if(data=="25")
+                    // {
+                    //     console.log(data);
+                    // }
                 })
             }
 
