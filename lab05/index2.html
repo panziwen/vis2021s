@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+<head>
+	<meta charset="utf-8">
+	<title>Lab</title>
+	<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+	<!-- v6.5
+    <c.0 -->
+	<style type="text/css">
+		div.bar {
+			border: 1px black solid;
+			padding: 40px;
+			display: inline-block;
+			vertical-align: bottom;
+			font-size: 5px;
+			font-style: italic;
+		}
+
+		rect:hover {
+			transition: width, height;
+			transition-duration: 0.5s;
+			background-color: #000 !important;
+			box-shadow: 0 0 2px 1px rgba(0, 0, 1, 0.7);
+		}
+
+		/*body {
+			border: 1px black dotted;
+			padding: 10px;
+		}*/
+	</style>
+</head>
+
+<body>
+	<script type="text/javascript">
+		//Width and height
+
+
+		var w = 1000;
+		var h = 400;
+		var yAxisNum = 50;
+		var padding = 40;
+		d3.text("data.csv", function (data) {
+			var dataset1 = [];
+			var dataset = [];
+			var parseCSV = d3.csvParseRows(data);
+			var total = 0;
+
+			for (var i = 0; i < parseCSV.length; i++) {
+				var myobj = parseCSV[i];
+				dataset[i] = myobj;
+				dataset1[i] = myobj[1];
+			}
+
+			console.log(dataset1);
+			var xScale = d3.scaleLinear()
+				.domain([31, 61])
+				.range([padding, w]);
+
+			var yScale = d3.scaleLinear()
+				/*.domain([0, d3.max(dataset, function(d) {return d[1]; })])*/
+				.domain([0, 50])
+				.range([h - padding, 0]);
+
+
+			//Define X axis
+			var xAxis = d3.axisBottom()
+				.scale(xScale)
+				.ticks(28);
+
+			var yAxis = d3.axisLeft()
+				.scale(yScale)
+				.ticks(10);
+
+			var svg = d3.selectAll("body")
+				.append("svg")
+				.attr("width", w)
+				.attr("height", h);
+			
+			svg.selectAll("rect")
+				.data(dataset1)
+				.enter()
+				.append("rect")
+				.attr("x", function (d, i) { return (i) * ((w - padding) / 30) - 15.5 + padding + 62 + 7.5; })
+				.attr("y", function (d) { return h - padding - 360 * (d / yAxisNum); })
+				.attr("width", function (d) { return ((w - padding) / 30) - 10; })
+				.attr("height", function (d, i) { return 360 * (d / yAxisNum) })
+				.attr("fill", function (d) {
+					var letters = '0123456789ABCDEF';
+            		var color = '#';
+					for (var i = 0; i < 6; i++) {
+						color += letters[Math.floor(Math.random() * 16)];
+					}
+					return color;
+				})
+			
+			svg.selectAll("text")
+				.data(dataset1)
+				.enter()
+				.append("text")
+				.text(function (d) {
+					return d;
+				})
+				.attr("x", function (d, i) { return i * ((w - padding) / 30)  + padding + 62 ; })
+				.attr("y", function (d) { return h - padding - 360 * (d / yAxisNum)-5;})
+				.attr("font-family", "sans-serif")
+				.attr("font-size", "10px")
+				.attr("fill", "black");
+			svg.append("g")
+			.attr("class", "axis")
+			.attr("transform", "translate(0," + (h - padding) + ")")
+			.call(xAxis);
+
+			svg.append("g")
+				.attr("class", "axis")
+				.attr("transform", "translate(" + padding + ",0)")
+				.call(yAxis);
+
+
+			
+
+		});
+	</script>
+</body>
+
+</html>
