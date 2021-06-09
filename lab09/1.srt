@@ -1,710 +1,179 @@
 1
 00:00:22,175 --> 00:00:26,591
-laan4 lou6 jyu5 pin1 ci5 syut3 faa1 　jam2 jap1 dik1 nei5 dung3 maa1
 攔路雨偏似雪花　飲泣的你凍嗎
 
 2
 00:00:26,750 --> 00:00:30,925
-ze5 fung1 lau5 ngo5 kap1 nei5 mo4 dou3 jau5 kam1 faa1
 這風褸我給你磨到有襟花
 
 3
 00:00:31,225 --> 00:00:35,730
-lin4 diu6 liu5 zik1 jaa5 bat1 paa3 　zam2 mo1 ci2 zung1 hin1 gwaa3
 連調了職也不怕　怎麼始終牽掛
 
 4
 00:00:35,904 --> 00:00:40,192
-fu2 sam1 syun2 zung1 gam1 tin1 soeng2 ce1 nei5 wui4 gaa1
 苦心選中今天想車你回家
 
 5
 00:00:40,425 --> 00:00:44,825
-jyun4 loeng6 ngo5 bat1 zoi3 sung3 faa1 　soeng1 hau2 jing3 jiu3 git3 baa1
 原諒我不再送花　傷口應要結疤
 
 6
 00:00:45,000 --> 00:00:49,352
-faa1 faan6 pou1 mun5 sam1 leoi5 fan4 coeng4 coi4 hoi6 paa3
 花瓣鋪滿心裡墳場才害怕
 
 7
 00:00:49,575 --> 00:00:54,000
-jyu4 joek6 nei5 fei1 ngo5 bat1 gaa3 　bei2 ci2 zung1 bit1 fo2 faa3
 如若你非我不嫁　彼此終必火化
 
 8
 00:00:54,150 --> 00:00:58,550
-jat1 saang1 jat1 sai3 dang2 jat1 tin1 seoi1 jiu3 doi6 gaa3
 一生一世等一天需要代價
 
 9
 00:00:58,725 --> 00:01:03,725
-seoi4 dou1 zi2 dak1 naa5 soeng1 sau2 　kaau3 jung2 pou5 jik6 naan4 jam6 nei5 jung2 jau5
 誰都只得那雙手　靠擁抱亦難任你擁有
 
 10
 00:01:03,900 --> 00:01:08,275
-jiu3 jung2 jau5 bit1 sin1 dung2 sat1 heoi3 zam2 zip3 sau6
 要擁有必先懂失去怎接受
 
 11
 00:01:08,475 --> 00:01:12,925
-cang4 jyun4 zyu3 syut3 lou6 long6 jau4 　wai4 ho4 wai4 hou2 si6 leoi6 lau4
 曾沿著雪路浪遊　為何為好事淚流
 
 12
 00:01:13,025 --> 00:01:17,425
-seoi4 nang4 pang4 ngoi3 ji3 jiu3 fu3 si6 saan1 si1 jau5
 誰能憑愛意要富士山私有
 
 13
 00:01:17,575 --> 00:01:21,950
-ho4 bat1 baa2 bei1 oi1 gam2 gok3 gaa3 cit3 si6 loi4 zi6 nei5 heoi1 kau3
 何不把悲哀感覺假設是來自你虛構
 
 14
 00:01:22,150 --> 00:01:26,425
-si3 gun2 leoi5 zaau2 bat1 dou3 taa1 jim5 wu1 ngaan5 mau4
 試管裡找不到它染污眼眸
 
 15
 00:01:26,700 --> 00:01:33,375
-cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4 　ceoi4 jyun4 dei6 paau1 haa6 bin6 tou4 zau2
 前塵硬化像石頭　隨緣地拋下便逃走
 
 16
 00:01:34,250 --> 00:01:36,106
-ngo5 zyut6 bat1 hon2 jau5
 我絕不罕有
 
 17
 00:01:36,275 --> 00:01:41,575
-wong5 gaai1 leoi5 jiu2 gwo3 jat1 zau1 　ngo5 bin6 faa3 wu1 jau5
 往街裡繞過一周　我便化烏有
 
 18
 00:01:42,950 --> 00:01:47,427
-cing4 jan4 zit3 bat1 jiu3 syut3 cyun1 　zi2 gam2 fu2 nei5 faat3 dyun1
 情人節不要說穿　只敢撫你髮端
 
 19
 00:01:47,550 --> 00:01:51,952
-ze5 zung2 zi1 taai3 ho2 wui2 ling6 nei5 gang3 sam1 syun1
 這種姿態可會令你更心酸
 
 20
 00:01:52,075 --> 00:01:56,491
-lau4 zoi6 hei3 ce1 leoi5 ceoi2 nyun5 　jing3 goi1 zam2 mo1 kwai1 hyun3
 留在汽車裡取暖　應該怎麼規勸
 
 21
 00:01:56,675 --> 00:02:01,050
-zam2 mo1 ho2 ji5 zoeng3 sau2 wun2 jan2 tung3 waak6 syun2
 怎麼可以將手腕忍痛劃損
 
 22
 00:02:01,175 --> 00:02:05,825
-jan4 wut6 dou3 gei2 seoi3 syun3 dyun2 　sat1 lyun2 zi2 jau5 gang3 dyun2
 人活到幾歲算短　失戀只有更短
 
 23
 00:02:05,825 --> 00:02:10,100
-gwai1 gaa1 seoi1 jiu3 gei2 leoi5 lou6 seoi4 nang4 jyu6 syun3
 歸家需要幾里路誰能預算
 
 24
 00:02:10,350 --> 00:02:14,925
-mong4 diu6 ngo5 gan1 nei5 jan1 jyun3 　jing1 faa1 hoi1 liu5 gei2 zyun2
 忘掉我跟你恩怨　櫻花開了幾轉
 
 25
 00:02:14,950 --> 00:02:19,200
-dung1 ging1 zi1 leoi5 jat1 zou2 bei2 jat1 sai3 jiu4 jyun5
 東京之旅一早比一世遙遠
 
 26
 00:02:19,550 --> 00:02:24,606
-seoi4 dou1 zi2 dak1 naa5 soeng1 sau2 　kaau3 jung2 pou5 jik6 naan4 jam6 nei5 jung2 jau5
 誰都只得那雙手　靠擁抱亦難任你擁有
 
 27
 00:02:24,725 --> 00:02:29,025
-jiu3 jung2 jau5 bit1 sin1 dung2 sat1 heoi3 zam2 zip3 sau6
 要擁有必先懂失去怎接受
 
 28
 00:02:29,300 --> 00:02:33,700
-cang4 jyun4 zyu3 syut3 lou6 long6 jau4 　wai4 ho4 wai4 hou2 si6 leoi6 lau4
 曾沿著雪路浪遊　為何為好事淚流
 
 29
 00:02:33,825 --> 00:02:38,250
-seoi4 nang4 pang4 ngoi3 ji3 jiu3 fu3 si6 saan1 si1 jau5
 誰能憑愛意要富士山私有
 
 30
 00:02:38,400 --> 00:02:42,850
-ho4 bat1 baa2 bei1 oi1 gam2 gok3 gaa3 cit3 si6 loi4 zi6 nei5 heoi1 kau3
 何不把悲哀感覺假設是來自你虛構
 
 31
 00:02:43,000 --> 00:02:47,275
-si3 gun2 leoi5 zaau2 bat1 dou3 taa1 jim5 wu1 ngaan5 mau4
 試管裡找不到它染污眼眸
 
 32
 00:02:47,525 --> 00:02:53,875
-cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4 　ceoi4 jyun4 dei6 paau1 haa6 bin6 tou4 zau2
 前塵硬化像石頭　隨緣地拋下便逃走
 
 33
 00:02:54,475 --> 00:02:56,525
-ngo5 zyut6 bat1 hon2 jau5
 我絕不罕有
 
 34
 00:02:56,600 --> 00:03:02,250
-wong5 gaai1 leoi5 jiu2 gwo3 jat1 zau1 　ngo5 bin6 faa3 wu1 jau5
 往街裡繞過一周　我便化烏有
 
 35
 00:03:03,675 --> 00:03:08,850
-seoi4 dou1 zi2 dak1 naa5 soeng1 sau2 　kaau3 jung2 pou5 jik6 naan4 jam6 nei5 jung2 jau5
 誰都只得那雙手　靠擁抱亦難任你擁有
 
 36
 00:03:09,000 --> 00:03:13,475
-jiu3 jung2 jau5 bit1 sin1 dung2 sat1 heoi3 zam2 zip3 sau6
 要擁有必先懂失去怎接受
 
 37
 00:03:13,725 --> 00:03:18,275
-cang4 jyun4 zyu3 syut3 lou6 long6 jau4 　wai4 ho4 wai4 hou2 si6 leoi6 lau4
 曾沿著雪路浪遊　為何為好事淚流
 
 38
 00:03:18,471 --> 00:03:23,025
-seoi4 nang4 pang4 ngoi3 ji3 jiu3 fu3 si6 saan1 si1 jau5
 誰能憑愛意要富士山私有
 
 39
 00:03:23,150 --> 00:03:27,675
-ho4 bat1 baa2 bei1 oi1 gam2 gok3 gaa3 cit3 si6 loi4 zi6 nei5 heoi1 kau3
 何不把悲哀感覺假設是來自你虛構
 
 40
 00:03:27,879 --> 00:03:32,325
-si3 gun2 leoi5 zaau2 bat1 dou3 taa1 jim5 wu1 ngaan5 mau4
 試管裡找不到它染污眼眸
 
 41
 00:03:32,550 --> 00:03:39,500
-cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4 　ceoi4 jyun4 dei6 paau1 haa6 bin6 tou4 zau2
 前塵硬化像石頭　隨緣地拋下便逃走
 
 42
 00:03:41,511 --> 00:03:43,525
-ngo5 zyut6 bat1 hon2 jau5
 我絕不罕有
 
 43
 00:03:43,725 --> 00:03:50,425
-wong5 gaai1 leoi5 jiu2 gwo3 jat1 zau1 　ngo5 bin6 faa3 wu1 jau5
 往街裡繞過一周　我便化烏有
 
 44
 00:03:52,300 --> 00:03:54,075
-nei5 waan4 jim4 bat1 gau3
 你還嫌不夠
 
 45
 00:03:54,175 --> 00:04:00,875
-ngo5 baa2 ze5 can4 nin4 fung1 lau5 　sung3 zang6 nei5 gaai2 zau3
 我把這陳年風褸　送贈你解咒
-
-46
-00:04:44,850 --> 00:04:49,075
-fan1 sau2 si4 noi6 gau3 dik1 nei5 jat1 zyun2 lim5
-分手時內疚的你一轉臉
-
-47
-00:04:49,875 --> 00:04:54,250
-wai4 jat6 hau6 bat1 soeng2 jau5 sam6 mo1 hin1 lin4
-為日後不想有甚麼牽連
-
-48
-00:04:54,450 --> 00:04:59,300
-dong1 ngo5 gung1 zok3 seoi6 gok3 tou2 gou3 jyu4 lok6 naa5 mo1 hak1 ji3 gwo3 hou2 mui5 tin1
-當我工作睡覺禱告娛樂那麼刻意過好每天
-
-49
-00:04:59,425 --> 00:05:04,275
-seoi4 liu2 nei5 gin3 sung1 bong2 liu5 jau6 jyun6 gin3 min6
-誰料你見鬆綁了又願見面
-
-50
-00:05:04,475 --> 00:05:09,150
-seoi4 dong1 co1 soeng2 baai2 tyut3 bei6 wai4 jiu2 zo2 jau6
-誰當初想擺脫被圍繞左右
-
-51
-00:05:09,425 --> 00:05:13,875
-gwo3 hau6 seoi4 jan4 bei6 jiu4 hung3 jyu1 sai3 gaai3 zeon6 tau4
-過後誰人被遙控於世界盡頭
-
-52
-00:05:14,000 --> 00:05:18,992
-lak6 dou3 fu1 kap1 kwan3 naan4 coi4 zi1 bin3 ce2 sin3 muk6 ngau5
-勒到呼吸困難才知變扯線木偶
-
-53
-00:05:19,025 --> 00:05:24,600
-ze5 gan1 sin3 kei4 sat6 syut3 dou3 dai2 seoi4 naa4 nip6 zoi6 sau2
-這根線其實說到底誰拿捏在手
-
-54
-00:05:24,850 --> 00:05:29,250
-bat1 zeoi6 bat1 saan3　zi2 dang2 nei5 kap1 ling6 jat1 deoi3 sau2 kam4 wok6
-不聚不散　只等你給另一對手擒獲
-
-55
-00:05:29,775 --> 00:05:34,300
-naa5 si4 cing1 si1　bat1 wui2 jung6 soeng5 jyu4 saang1 loi4 loeng6 dou6
-那時青絲　不會用上餘生來量度
-
-56
-00:05:34,400 --> 00:05:39,350
-daan6 ngo5 to1 zyu3 keoi1 hok3　faat3 jin6 jyun4 tou4 cam4 zaau2 dik1 faai3 lok6
-但我拖著軀殼　發現沿途尋找的快樂
-
-57
-00:05:39,400 --> 00:05:44,375
-jing4 hai6 jyu1 nei5 gin1 bok3　waak6 si6 kei4 sat6 zoi6 dang2 ngo5 se3 got3
-仍繫於你肩膊　或是其實在等我捨割
-
-58
-00:05:44,400 --> 00:05:49,700
-jin4 hau6 tyun5 sin3 fung1 zaang1 wui2 zik6 fei1 tin1 gwok3
-然後斷線風箏會直飛天國
-
-59
-00:06:09,825 --> 00:06:14,475
-ze5 se1 nin4 mong6 nei5 gan2 pou5 taa1 ceot1 jin6
-這些年望你緊抱他出現
-
-60
-00:06:14,800 --> 00:06:19,216
-waan4 pang4 ho4 daam1 sam1 zoi3 wu6 soeng1 gau2 cin4
-還憑何擔心再互相糾纏
-
-61
-00:06:19,425 --> 00:06:24,250
-kap1 ngo5 zaau2 go3 bun6 leoi5 zaau2 dou3 lau4 haa6 nei5 dik1 zuk1 jan3 jaa5 ho2 faat3 zin2
-給我找個伴侶找到留下你的足印也可發展
-
-62
-00:06:24,450 --> 00:06:29,225
-cyun4 wai4 nei5 bui3 jing2 bik1 ngo5 bou6 bou6 hoeng3 cin4
-全為你背影逼我步步向前
-
-63
-00:06:29,550 --> 00:06:34,177
-jyu4 jat1 gan1 si1 hin1 jan5 zyu3 sap6 fong1 zi1 lou6
-如一根絲牽引著拾荒之路
-
-64
-00:06:34,450 --> 00:06:38,875
-git3 zoi6 hau4 lung4 noi6 han4 joeng5 dak1 ci5 jau5 waan4 mou4
-結在喉嚨內痕癢得似有還無
-
-65
-00:06:39,000 --> 00:06:43,825
-wai4 nei5 ngon1 sam1 ngo5 zoi6 mei4 siu3 zung1 soeng2 tou3 mei6 tou3
-為你安心我在微笑中想吐未吐
-
-66
-00:06:43,850 --> 00:06:49,750
-zi2 soeng2 nei5 wo4 bun6 leoi5 jiu3 hou2 coi4 waan4 koeng4 beng6 hou2
-只想你和伴侶要好才頑強病好
-
-67
-00:06:49,825 --> 00:06:54,275
-bat1 zeoi6 bat1 saan3　zi2 dang2 nei5 kap1 ling6 jat1 deoi3 sau2 kam4 wok6
-不聚不散　只等你給另一對手擒獲
-
-68
-00:06:54,800 --> 00:06:59,350
-ji5 wai4 cing1 si1　bat1 wui2 jung6 soeng5 jyu4 saang1 loi4 loeng6 dou6
-以為青絲　不會用上餘生來量度
-
-69
-00:06:59,400 --> 00:07:04,325
-daan6 ngo5 to1 zyu3 keoi1 hok3　faat3 jin6 jyun4 tou4 cam4 zaau2 dik1 faai3 lok6
-但我拖著軀殼　發現沿途尋找的快樂
-
-70
-00:07:04,400 --> 00:07:09,350
-jing4 hai6 jyu1 nei5 gin1 bok3　waak6 si6 kei4 sat6 zoi6 dang2 ngo5 se2 got3
-仍繫於你肩膊　或是其實在等我捨割
-
-71
-00:07:09,400 --> 00:07:14,650
-jin4 hau6 tyun5 sin3 fung1 zaang1 wui2 zik6 fei1 tin1 gwok3
-然後斷線風箏會直飛天國
-
-72
-00:07:14,725 --> 00:07:19,200
-jat1 zik6 bat1 gok3　kwan2 bong2 ngo5 dik1 mei6 ho2 kau3 gan2 sing4 nok6
-一直不覺　綑綁我的未可扣緊承諾
-
-73
-00:07:19,850 --> 00:07:24,350
-mun5 tau4 cing1 si1　soeng2 dou3 baak6 liu5 jing4 laan5 dak1 tyut3 lok6
-滿頭青絲　想到白了仍懶得脫落
-
-74
-00:07:24,400 --> 00:07:29,450
-bei6 nei5 hin1 dung6 si1 gok3　zeoi3 hau6 seoi4 jyun6 cin4 jiu2 dou3 tin1 gwok3
-被你牽動思覺　最後誰願纏繞到天國
-
-75
-00:07:29,500 --> 00:07:34,375
-jin4 hau6 si1 lit6 keoi1 hok3　juk6 tyun5 naan4 tyun5 zoi6 bat1 gam1 sam1 heoi3 se3 got3
-然後撕裂軀殼　欲斷難斷在不甘心去捨割
-
-76
-00:07:34,400 --> 00:07:39,525
-naan4 dou6 ngoi3 bun2 san1 ho2 ngoi3 zoi6 jyu1 cuk1 bok3
-難道愛本身可愛在於束縛
-
-77
-00:07:39,850 --> 00:07:49,925
-mou4 noi6 nei5 ngo5 hin1 gwo3 sau2 mut6 sing4 sok3
-無奈你我牽過手　沒繩索
-
-78
-00:08:36,625 --> 00:08:42,625
-tau4 zim1 sap1 　mou4 ho2 bei6 min5
-頭沾濕　無可避免
-
-79
-00:08:43,975 --> 00:08:48,075
-leon4 deon1 zung2 ji1 lyun2 jyu5 dim2
-倫敦總依戀雨點
-
-80
-00:08:50,297 --> 00:08:55,675
-sing4 zou2 gei1 　jan2 noi6 zyu3 ho1 him3
-乘早機　忍耐著呵欠
-
-81
-00:08:56,450 --> 00:09:01,442
-jyun4 cyun4 wai4 gin3 nei5 jat1 min6
-完全為見你一面
-
-82
-00:09:03,575 --> 00:09:09,175
-cam4 dak1 dou3 　can4 fung1 siu2 dim3
-尋得到　塵封小店
-
-83
-00:09:10,350 --> 00:09:14,900
-wui4 bat1 dou3 soeng1 lyun2 naa5 tin1
-回不到相戀那天
-
-84
-00:09:16,450 --> 00:09:21,700
-ling4 hei3 daai6 koi3 zou2 bei6 wu1 jim5
-靈氣大概早被污染
-
-85
-00:09:22,500 --> 00:09:27,450
-seoi4 wai4 liu5 saang1 wut6 bat1 bin3
-誰為了生活不變
-
-86
-00:09:29,525 --> 00:09:35,600
-jyut6 hot3 mong6 gin3 min6 jin4 hau6 faat3 jin6
-越渴望見面然後發現
-
-87
-00:09:36,825 --> 00:09:41,800
-zung1 gaan1 gaak3 zyu3 naa5 sap6 nin4
-中間隔著那十年
-
-88
-00:09:42,550 --> 00:09:48,525
-ngo5 soeng2 gin3 dik1 siu3 lim5 　zi2 jau5 waai4 nim6
-我想見的笑臉　只有懷念
-
-89
-00:09:48,875 --> 00:09:55,225
-bat1 dung2 　zam2 heoi3 zoi3 liu4 tin1
-不懂　怎去再聊天
-
-90
-00:09:55,513 --> 00:10:01,725
-zoeng6 ngo5 zoi6 wong5 jat6 waan4 mei6 cau1 jin1
-像我在往日還未抽煙
-
-91
-00:10:02,500 --> 00:10:07,025
-bat1 zi1 nei5 zam2 mo1 bin3 cin1
-不知你怎麼變遷
-
-92
-00:10:08,425 --> 00:10:14,200
-ci5 dang2 liu5 jat1 baak3 nin4 　fat1 ji5 ming4 baak6
-似等了一百年　忽爾明白
-
-93
-00:10:14,875 --> 00:10:21,625
-zik1 sai2 zoi3 gin3 min6 　sing4 suk6 dei6 biu2 jin2
-即使再見面　成熟地表演
-
-94
-00:10:23,625 --> 00:10:28,525
-bat1 jyu4 bat1 gin3
-不如不見
-
-95
-00:10:42,271 --> 00:10:47,967
-cam4 dak1 dou3 　can4 fung1 siu2 dim3
-尋得到　塵封小店
-
-96
-00:10:49,150 --> 00:10:53,900
-wui4 bat1 dou3 soeng1 lyun2 naa5 tin1
-回不到相戀那天
-
-97
-00:10:55,327 --> 00:11:00,525
-ling4 hei3 daai6 koi3 zou2 bei6 wu1 jim5
-靈氣大概早被污染
-
-98
-00:11:00,875 --> 00:11:06,525
-seoi4 wai4 liu5 saang1 wut6 bat1 bin3
-誰為了生活不變
-
-99
-00:11:07,825 --> 00:11:14,097
-jyut6 hot3 mong6 gin3 min6 jin4 hau6 faat3 jin6
-越渴望見面然後發現
-
-100
-00:11:14,875 --> 00:11:19,625
-zung1 gaan1 gaak3 zyu3 naa5 sap6 nin4
-中間隔著那十年
-
-101
-00:11:20,725 --> 00:11:26,775
-ngo5 soeng2 gin3 dik1 siu3 lim5 　zi2 jau5 waai4 nim6
-我想見的笑臉　只有懷念
-
-102
-00:11:26,975 --> 00:11:33,350
-bat1 dung2 　zam2 heoi3 zoi3 liu4 tin1
-不懂　怎去再聊天
-
-103
-00:11:33,600 --> 00:11:39,325
-zoeng6 ngo5 zoi6 wong5 jat6 waan4 mei6 cau1 jin1
-像我在往日還未抽煙
-
-104
-00:11:40,383 --> 00:11:45,150
-bat1 zi1 nei5 zam2 mo1 bin3 cin1
-不知你怎麼變遷
-
-105
-00:11:46,200 --> 00:11:52,075
-ci5 dang2 liu5 jat1 baak3 nin4 　fat1 ji5 ming4 baak6
-似等了一百年　忽爾明白
-
-106
-00:11:52,671 --> 00:11:59,700
-zik1 sai2 zoi3 gin3 min6 　sing4 suk6 dei6 biu2 jin2
-即使再見面　成熟地表演
-
-107
-00:12:01,975 --> 00:12:05,791
-bat1 jyu4 bat1 gin3
-不如不見
-
-108
-00:12:47,250 --> 00:12:50,050
-joeng4 faan4 si4 　jan4 ciu4 mut6 jau5 nei5
-揚帆時　人潮沒有你
-
-109
-00:12:50,500 --> 00:12:53,150
-ngo5 si6 ngo5 　wo4 tou4 jan4 jat1 hei2
-我是我　和途人一起
-
-110
-00:12:53,750 --> 00:12:57,400
-ting4 deon6 si4 　zoi6 nei5 siu3 hoi1 dik1 ngaan5 mei4
-停頓時　在你笑開的眼眉
-
-111
-00:12:57,825 --> 00:13:00,075
-mong6 cyun1 cau1 seoi2 zi1 mei5
-望穿秋水之美
-
-112
-00:13:00,200 --> 00:13:02,950
-wui4 cing4 si4 　long6 tou4 zeon6 liu5 nei5
-回程時　浪淘盡了你
-
-113
-00:13:03,450 --> 00:13:06,300
-jam6 bui3 jing2 　coeng4 seoi6 zyu3 bat1 hei2
-任背影　長睡著不起
-
-114
-00:13:06,725 --> 00:13:10,350
-lau4 haa6 ngo5 　zoi6 fan3 tou2 dong1 zung1 faan1 gim2 bui3 nong4
-留下我　在糞土當中翻檢背囊
-
-115
-00:13:10,804 --> 00:13:13,050
-zik6 dou3 sap6 wui4 zi6 gei2
-直到拾回自己
-
-116
-00:13:13,200 --> 00:13:18,448
-zoeng2 sam1 jan1 ci2 do1 ceot1 jat1 gan1 ci3 mut6 jau5 ci3 tung3 bin6 laan5 zi1
-掌心因此多出一根刺　沒有刺痛便懶知
-
-117
-00:13:19,060 --> 00:13:26,475
-zau6 dong1 gung6 nei5 　jau5 gau6 cing4 mut6 jau5 wong5 si6
-就當共你　有舊情沒有往事
-
-118
-00:13:28,600 --> 00:13:33,575
-jyu4 jin1 　jan1 kap1 nei5 dai6 gwo3 fo2
-如煙　因給你遞過火
-
-119
-00:13:35,175 --> 00:13:40,075
-jyu4 fo2 　koek3 jaa5 mut6 jung4 diu6 ngo5
-如火　卻也沒熔掉我
-
-120
-00:13:41,175 --> 00:13:47,750
-wui4 mong6 zeoi3 co1 　dong1 song3 sat1 si6 dak1 zyu3 ho2 bat1 ho2
-回望最初　當喪失是得著可不可
-
-121
-00:13:48,075 --> 00:13:54,200
-ho2 tung3 joek6 lei4 go1 　lok6 jyu4 ji4 go1
-可痛若驪歌　樂如兒歌
-
-122
-00:13:54,575 --> 00:14:01,100
-zoeng6 nei5 mut6 loi4 gwo3 　mut6 heoi3 gwo3
-像你沒來過　沒去過
-
-123
-00:14:21,325 --> 00:14:24,175
-seoi4 tung4 hang4 　jing4 tung4 joeng6 git3 mei5
-誰同行　仍同樣結尾
-
-124
-00:14:24,600 --> 00:14:27,300
-hyut3 jik6 leoi5 　coi4 wai4 cyun4 bei1 hei2
-血液裡　才遺傳悲喜
-
-125
-00:14:27,800 --> 00:14:31,625
-seoi4 jik6 naan4 　bei6 gwo3 ze5 jat1 san1 haak3 can4
-誰亦難　避過這一身客塵
-
-126
-00:14:31,850 --> 00:14:34,125
-daan6 gong1 haau2 ceot1 jyu1 nei5
-但剛巧出於你
-
-127
-00:14:34,300 --> 00:14:37,050
-seoi4 tau4 cin4 　mut6 jyun4 fan1 song3 hei3
-垂頭前　沒緣份喪氣
-
-128
-00:14:37,566 --> 00:14:40,425
-seoi6 dou3 sing2 　coi4 zaam6 lap6 dak1 hei2
-睡到醒　才站立得起
-
-129
-00:14:40,830 --> 00:14:43,050
-maang4 muk6 gwo3 　bin6 hon3 dou3 tin1 gei1
-盲目過　便看到天機
-
-130
-00:14:43,050 --> 00:14:46,940
-faan2 fuk1 wong5 loi4 　jau6 zoi3 zou6 wui4 zi6 gei2
-反覆往來　又再做回自己
-
-131
-00:14:47,275 --> 00:14:52,656
-zik1 si4 jat1 saang1 do1 ceot1 jat1 gan1 ci3 mut6 jau5 ci3 tung3 bit6 jiu3 zi1
-即使一生多出一根刺　沒有刺痛別要知
-
-132
-00:14:53,125 --> 00:15:01,650
-zau6 dong1 gung6 nei5 　jau5 kek6 cing4 mut6 jau5 gu3 si6
-就當共你　有劇情沒有故事
-
-133
-00:15:02,650 --> 00:15:07,750
-jyu4 jin1 　jan1 kap1 nei5 dai6 gwo3 fo2
-如煙　因給你遞過火
-
-134
-00:15:09,150 --> 00:15:14,100
-jyu4 fo2 　koek3 jaa5 mut6 jung4 diu6 ngo5
-如火　卻也沒熔掉我
-
-135
-00:15:15,200 --> 00:15:21,950
-wui4 mong6 zeoi3 co1 　dong1 song3 sat1 si6 dak1 zyu3 ho2 bat1 ho2
-回望最初　當喪失是得著可不可
-
-136
-00:15:22,125 --> 00:15:28,100
-ho2 tung3 joek6 lei4 go1 　lok6 jyu4 ji4 go1
-可痛若驪歌　樂如兒歌
-
-137
-00:15:28,650 --> 00:15:37,650
-zoeng6 nei5 mut6 loi4 gwo3 　mut6 heoi3 gwo3
-像你沒來過　沒去過
-
-138
-00:16:01,075 --> 00:16:06,025
-jyu4 faa1 　ciu1 saang1 liu5 mut6 jau5 gwo2
-如花　超生了沒有果
-
-139
-00:16:07,525 --> 00:16:12,575
-jyu4 gwo2 　gwo3 lou6 nang4 cung4 daap6 gwo3
-如果　過路能重踏過
-
-140
-00:16:13,575 --> 00:16:20,286
-zau6 dong1 zeoi3 co1 　si6 seoi3 bou6 wu4 soeng5 ho2 bat1 ho2
-就當最初　是碎步湖上可不可
-
-141
-00:16:20,500 --> 00:16:26,775
-bat1 zung2 haa6 sam6 mo1 　zaak6 loi4 sam6 mo1
-不種下甚麼　摘來甚麼
-
-142
-00:16:26,925 --> 00:16:37,700
-zoeng6 ngo5 mut6 loi4 gwo3 　mut6 heoi3 gwo3
-像我沒來過　沒去過
-

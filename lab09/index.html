@@ -68,7 +68,7 @@ window.addEventListener('load', function() {
         clearInterval(updateClock);
     };
 
-    d3.text('1.srt').then(function(data) {
+    d3.text('./1.srt').then(function(data) {
         var parsedCSV = d3.csvParseRows(data);
         var key;
         var begin;
