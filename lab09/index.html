@@ -133,7 +133,6 @@ function playSubtitle() {
     d3.select('body')
         .append('svg')
         .attr('id', 'subtitle')
-        .attr('color', 'white')
         .attr('width', WIDTH)
         .attr('height', HEIGHT)
         .selectAll('text')
@@ -143,6 +142,7 @@ function playSubtitle() {
         .text(function(d) {
             return d.subtitle;
         })
+        .attr('color', 'white')
         .attr('font-size', '30pt')
         .attr('fill', 'black')
         .attr('stroke', function(d) {
