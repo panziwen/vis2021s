@@ -1,0 +1,62 @@
+#path1088 {
+    stroke-width: 12;
+    clip-path: url("#cp1");
+    stroke-dasharray: 135;
+    animation: dash1-1 5s linear forwards;
+}
+@keyframes dash1-1 {
+    0% {
+            stroke-dashoffset: 135;
+}
+    25% {
+            stroke-dashoffset: 0;
+    }
+}
+
+#path1090 {
+    stroke-width: 20;
+    clip-path: url("#cp1");
+    stroke-dasharray: 119;
+    animation: dash1-2 5s linear forwards;
+}
+@keyframes dash1-2 {
+    0%,
+    25% {
+            stroke-dashoffset: 119;
+}
+    50% {
+            stroke-dashoffset: 0;
+    }
+}
+
+#path1092 {
+    stroke-width: 12;
+    clip-path: url("#cp1");
+    stroke-dasharray: 84;
+    animation: dash1-3 5s linear forwards;
+}
+@keyframes dash1-3 {
+    0%,
+    50% {
+            stroke-dashoffset: 84;
+}
+    75% {
+            stroke-dashoffset: 0;
+    }
+} 
+
+#path1094 {
+    stroke-width: 12;
+    clip-path: url("#cp1");
+    stroke-dasharray: 229;
+    animation: dash1-4 5s linear forwards;
+}
+@keyframes dash1-4 {
+    0%,
+    75% {
+            stroke-dashoffset: 229;
+}
+    100% {
+            stroke-dashoffset: 0;
+    }
+}
