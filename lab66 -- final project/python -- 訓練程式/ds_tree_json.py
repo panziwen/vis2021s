@@ -140,10 +140,10 @@ def tree_state(datasetX, datasety, clf, features, dataIndex, node_index=0, nodes
         
     return nodes
 
-datacsv = pd.read_csv(str(pathlib.Path.cwd())+'\\rawData.csv')
+datacsv = pd.read_csv(str(pathlib.Path.cwd())+'\\gender_classification_v7.csv')
 datacsv = datacsv.fillna(0)
 labelencoder = LabelEncoder()
-datacsv['地區']= labelencoder.fit_transform(datacsv['地區'])
+datacsv['gender']= labelencoder.fit_transform(datacsv['gender'])
 
 columns = datacsv.columns.tolist()
 
